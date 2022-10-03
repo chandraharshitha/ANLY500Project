@@ -1,0 +1,25 @@
+---
+title: "ANLY500 Project"
+author: "Abhishek Anand, Bolun Lu, Siming Xu, Rijin Lnu"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# set working directory
+setwd("C:/Users/aanan/Documents/GitHub/ANLY500Project/") # Team, please change this to a directory on your computer when you add code, else your code won't execute
+
+# add packages
+
+```
+
+```{r}
+Salaries <- read.csv("salaries.csv")
+```
+
+# Salaries in the fields of Data Science, Artificial Intelligence, and Machine Learning
+
+## Introduction
+
