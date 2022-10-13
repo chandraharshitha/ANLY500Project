@@ -1,0 +1,42 @@
+---
+title: "ANLY500 Project"
+author: "Abhishek Anand, Bolun Lu, Siming Xu, Rijin Lnu"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# set working directory
+setwd("C:/Users/aanan/Documents/GitHub/ANLY500Project/") # Team, please change this to a directory on your computer when you add code, else your code won't execute
+
+# add packages
+
+```
+
+```{r read data, echo=FALSE, results='hide'}
+Salaries <- read.csv("salaries.csv")
+```
+
+
+## Salaries in the Fields of Data Science, Artificial Intelligence, and Machine Learning
+
+### Introduction
+
+A shift towards data-centered decision-making is taking hold and at the center of this shift are those working in the fields of data science ("DS"), artificial intelligence ("AI"), and machine learning ("ML"). As businesses seek to optimize operations and information using vastly increased computing power, the shape and size of data analytics has increased exponentially over the last two decades, and even more prominently in the last decade with the rise of machine learning, cloud computing, and advances in the field of artificial intelligence.
+
+Exploring the composition and trends of salaries in this sector is equally as intriguing, both from a research perspective and from the perspective of what can be waiting for students of Data Analytics (DS/AI/ML) in academic programs globally.
+
+The data we've chosen for this project comes from https://salaries.ai-jobs.net/, a website collecting salary data from around the world.
+
+This data set has salary (in USD) for a variety of technical roles, and a variety of information on the characteristics of the employee, employer, the job itself, and the market.
+
+The data set contains the following variables:
+
+```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '100%'}
+knitr::include_graphics("Variable Descriptions.png")
+```
+
