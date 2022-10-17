@@ -52,9 +52,53 @@ knitr::include_graphics("Variable Descriptions.png")
 
 ### Citations and Related Work
 
+[[Add citations we consulted, and a summary of related work!]]
 
 ### Data
 
+#### Summary of Data
+
+```{r}
+
+```
+
+[[Add language describing data.]]
+
+#### Descriptive Statistics
+
+```{r}
+
+```
+
+[[Add language summarizing descriptive statistics.]]
+
+#### Descriptive Plots
+
+##### Scatterplots
+
+```{r}
+
+```
+
+[[Add language summarizing the relationships shown in descriptive plots.]]
+
+##### Barplots / Histograms
+
+```{r}
+
+```
+
+[[Add language summarizing the relationships shown in descriptive plots.]]
+
+##### Multivariate plots
+
+```{r}
+
+```
+
+[[Add language summarizing the relationships shown in descriptive plots.]]
+
+[[Overarching summary of plots.]]
 
 ### Technical Approach
 

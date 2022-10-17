@@ -1,5 +1,5 @@
 ---
-title: "ANLY500 Project"
+title: "Salaries in the Fields of Data Science, Artificial Intelligence, and Machine Learning"
 author: "Abhishek Anand, Bolun Lu, Siming Xu, Rijin Lnu"
 date: "`r Sys.Date()`"
 output:
@@ -21,8 +21,18 @@ setwd("C:/Users/aanan/Documents/GitHub/ANLY500Project/") # Team, please change t
 Salaries <- read.csv("salaries.csv")
 ```
 
+### Abstract
 
-## Salaries in the Fields of Data Science, Artificial Intelligence, and Machine Learning
+[[Add summary of our report when analyses is complete.]]
+
+### Index Terms / Keywords
+
+[[Complete list of keywords/acronyms that we reference.]]
+
+AI: Artificial Intelligence
+DS: Data Science
+ML: Machine Learning
+USD: United States Dollar
 
 ### Introduction
 
@@ -39,4 +49,66 @@ The data set contains the following variables:
 ```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '100%'}
 knitr::include_graphics("Variable Descriptions.png")
 ```
+
+### Citations and Related Work
+
+[[Add citations we consulted, and a summary of related work!]]
+
+### Data
+
+#### Summary of Data
+
+```{r}
+
+```
+
+[[Add language describing data.]]
+
+#### Descriptive Statistics
+
+```{r}
+
+```
+
+[[Add language summarizing descriptive statistics.]]
+
+#### Descriptive Plots
+
+##### Scatterplots
+
+```{r}
+
+```
+
+[[Add language summarizing the relationships shown in descriptive plots.]]
+
+##### Barplots / Histograms
+
+```{r}
+
+```
+
+[[Add language summarizing the relationships shown in descriptive plots.]]
+
+##### Multivariate plots
+
+```{r}
+
+```
+
+[[Add language summarizing the relationships shown in descriptive plots.]]
+
+[[Overarching summary of plots.]]
+
+### Technical Approach
+
+
+### Findings
+
+
+### Conclusion
+
+
+### Future Studies
+
 
