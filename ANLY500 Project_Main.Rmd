@@ -50,13 +50,26 @@ The data set contains the following variables:
 knitr::include_graphics("Variable Descriptions.png")
 ```
 
-### Citations and Related Work
+### Citations and Related Work (> Siming)
 
 [[Add citations we consulted, and a summary of related work!]]
 
 ### Data
 
-#### Summary of Data
+### Data Cleaning (> Abhishek)
+
+Follow all cleaning steps outlined in class
+_clean.csv
+
+```{r data cleaning, echo=FALSE}
+
+```
+
+#### Summary of Data (> Bolun)
+
+- median, mean, sd, range, IQR
+- anything else discussed in class
+- maybe include boxplots
 
 ```{r}
 
@@ -64,7 +77,7 @@ knitr::include_graphics("Variable Descriptions.png")
 
 [[Add language describing data.]]
 
-#### Descriptive Statistics
+#### Descriptive Statistics (> Bolun)
 
 ```{r}
 
@@ -72,17 +85,9 @@ knitr::include_graphics("Variable Descriptions.png")
 
 [[Add language summarizing descriptive statistics.]]
 
-#### Descriptive Plots
+#### Descriptive Plots 
 
-##### Scatterplots
-
-```{r}
-
-```
-
-[[Add language summarizing the relationships shown in descriptive plots.]]
-
-##### Barplots / Histograms
+##### Scatterplots (> Bolun)
 
 ```{r}
 
@@ -90,7 +95,15 @@ knitr::include_graphics("Variable Descriptions.png")
 
 [[Add language summarizing the relationships shown in descriptive plots.]]
 
-##### Multivariate plots
+##### Barplots / Histograms (> Abhishek)
+
+```{r}
+
+```
+
+[[Add language summarizing the relationships shown in descriptive plots.]]
+
+##### Multivariate plots (> Abhishek)
 
 ```{r}
 
@@ -100,15 +113,77 @@ knitr::include_graphics("Variable Descriptions.png")
 
 [[Overarching summary of plots.]]
 
-### Technical Approach
+#### Assumptions Tests
+
+##### Additivity (Rijin)
+
+```{r}
+
+```
+
+##### Linearity (Rijin)
+
+```{r}
+
+```
 
 
-### Findings
+##### Homogeneity (Rijin)
+
+```{r}
+
+```
+
+##### Normality (Rijin)
+
+```{r}
+
+```
+
+[[Summary of the tests.]]
+
+#### Correlation Check / Comments
+
+```{r}
+
+```
+
+[[Describe any correlations that were observed. How did we deal with this?]]
+
+### Technical Approach (> Siming)
+
+[[Language on our overall approach to the analysis.]]
+
+#### Modeling (All)
+
+#### Linear models
+
+```{r}
+
+```
+
+#### t-tests
+
+```{r}
+
+```
+
+#### ANOVA tests
+
+```{r}
+
+```
 
 
-### Conclusion
+
+### Findings (Siming + All)
 
 
-### Future Studies
+
+### Conclusion (Siming + All)
+
+
+
+### Future Studies (All)
 
 
