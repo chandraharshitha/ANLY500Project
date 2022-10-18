@@ -9,12 +9,13 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+options(scipen=999)
 
 # set working directory
 setwd("C:/Users/aanan/Documents/GitHub/ANLY500Project/") # Team, please change this to a directory on your computer when you add code, else your code won't execute
 
 # add packages
-
+library("dplyr")
 ```
 
 ```{r read data, echo=FALSE, results='hide'}
@@ -50,21 +51,108 @@ The data set contains the following variables:
 knitr::include_graphics("Variable Descriptions.png")
 ```
 
-### Citations and Related Work
+### Citations and Related Work (> Siming)
 
 [[Add citations we consulted, and a summary of related work!]]
 
 ### Data
 
-#### Summary of Data
+#### Data Cleaning (> Abhishek)
+
+Follow all cleaning steps outlined in class
+_clean.csv
+
+```{r data cleaning, echo=FALSE}
+head(Salaries)
+```
+
+#### Recode
+
+```{r recode categorical variables, echo=FALSE,results='hide'}
+Salaries$experience_level <- recode(Salaries$experience_level, EN = 1, MI = 2, SE = 3, EX = 4)
+Salaries$employment_type <- recode(Salaries$employment_type, PT=1, FT=2, CT=3, FL=4)
+Salaries$company_size <- recode(Salaries$company_size, S = 1, M = 2, L = 3)
+Salaries$remote_ratio <- recode(Salaries$remote_ratio, "0" = 1, "50" = 2, "100" = 3)
+```
+
+#### Remove Redundant Data
+
+```{r remove redundant data}
+Salaries <- Salaries[,c(1:4,7,9:11)]
+```
+
+#### Convert to Factor (may not be needed, but leaving it here for now)
 
 ```{r}
+#Salaries$remote_ratio <- as.factor(Salaries$remote_ratio)
+#Salaries$experience_level <- as.factor(Salaries$experience_level)
+#Salaries$employment_type <- as.factor(Salaries$employment_type)
+#Salaries$company_size <- as.factor(Salaries$company_size)
+#Salaries$remote_ratio <- as.factor(Salaries$remote_ratio)
+```
 
+#### Missing Data
+
+```{r}
+summary(Salaries[c(1:3,5:6,8)])
+```
+```{r}
+sum(is.na(Salaries))
+```
+
+There are no missing data in our data set. Also, as we see from the summaries above, all the categorical factors and the continuous variables are correctly assigned.
+
+#### Means
+
+```{r}
+round(apply(Salaries[,-c(4,7)],2,mean),1)
+```
+#### Standard Deviations
+
+```{r}
+round(apply(Salaries[,-c(4,7)],2,sd),1)
+```
+
+#### Outliers
+
+```{r}
+mahal <- mahalanobis(Salaries[,-c(4,7)],
+                     colMeans(Salaries[,-c(4,7)]),
+                     cov(Salaries[,-c(4,7)],use = "pairwise.complete.obs"))
+
+cutoff <- qchisq(1-0.001,ncol(Salaries[,-c(4,7)]))
+```
+
+```{r}
+ncol(Salaries[,-c(4,7)])
+```
+
+```{r}
+summary(mahal < cutoff)
+```
+
+From the above summary, we see that of the 978 rows of data, 31 contain outliers. The other 947 do not. We will remove the 31 rows to create a data set without outliers.
+
+```{r}
+Salaries_Outliers <- subset(Salaries, mahal >= cutoff)
+Salaries_NoOutliers <- subset(Salaries, mahal < cutoff)
+write.csv(Salaries_NoOutliers, "salaries_clean.csv")
+Salaries_clean <- read.csv("salaries_clean.csv")
+```
+
+#### Summary of Data (> Bolun)
+
+- median, mean, sd, range, IQR
+- anything else discussed in class
+- maybe include boxplots
+
+```{r}
+## AA note, please use "Salaries" rather than "Salaries_clean" for summary of data
 ```
 
 [[Add language describing data.]]
 
-#### Descriptive Statistics
+#### Descriptive Statistics (> Bolun)
 
 ```{r}
 
@@ -72,17 +160,9 @@ knitr::include_graphics("Variable Descriptions.png")
 
 [[Add language summarizing descriptive statistics.]]
 
-#### Descriptive Plots
+#### Descriptive Plots 
 
-##### Scatterplots
-
-```{r}
-
-```
-
-[[Add language summarizing the relationships shown in descriptive plots.]]
-
-##### Barplots / Histograms
+##### Scatterplots (> Bolun)
 
 ```{r}
 
@@ -90,7 +170,15 @@ knitr::include_graphics("Variable Descriptions.png")
 
 [[Add language summarizing the relationships shown in descriptive plots.]]
 
-##### Multivariate plots
+##### Barplots / Histograms (> Abhishek)
+
+```{r}
+
+```
+
+[[Add language summarizing the relationships shown in descriptive plots.]]
+
+##### Multivariate plots (> Abhishek)
 
 ```{r}
 
@@ -100,15 +188,77 @@ knitr::include_graphics("Variable Descriptions.png")
 
 [[Overarching summary of plots.]]
 
-### Technical Approach
+#### Assumptions Tests
+
+##### Additivity (Rijin)
+
+```{r}
+
+```
+
+##### Linearity (Rijin)
+
+```{r}
+
+```
 
 
-### Findings
+##### Homogeneity (Rijin)
+
+```{r}
+
+```
+
+##### Normality (Rijin)
+
+```{r}
+
+```
+
+[[Summary of the tests.]]
+
+#### Correlation Check / Comments
+
+```{r}
+
+```
+
+[[Describe any correlations that were observed. How did we deal with this?]]
+
+### Technical Approach (> Siming)
+
+[[Language on our overall approach to the analysis.]]
+
+#### Modeling (All)
+
+#### Linear models
+
+```{r}
+
+```
+
+#### t-tests
+
+```{r}
+
+```
+
+#### ANOVA tests
+
+```{r}
+
+```
 
 
-### Conclusion
+
+### Findings (Siming + All)
 
 
-### Future Studies
+
+### Conclusion (Siming + All)
+
+
+
+### Future Studies (All)
 
 

@@ -1,0 +1,948 @@
+"","work_year","experience_level","employment_type","job_title","salary_in_usd","remote_ratio","company_location","company_size"
+"1",2022,3,2,"Data Analyst",144000,3,"US",2
+"2",2022,3,2,"Data Analyst",113000,3,"US",2
+"3",2022,1,2,"AI Scientist",31981,3,"ES",2
+"4",2022,3,2,"Data Architect",195400,3,"US",3
+"5",2022,3,2,"Data Architect",131300,3,"US",3
+"6",2022,3,2,"Machine Learning Engineer",195400,3,"US",3
+"7",2022,3,2,"Machine Learning Engineer",131300,3,"US",3
+"8",2022,3,2,"Data Architect",195400,3,"US",3
+"9",2022,3,2,"Data Architect",131300,3,"US",3
+"10",2022,3,2,"Data Architect",190000,3,"US",2
+"11",2022,3,2,"Data Architect",135000,3,"US",2
+"12",2022,3,2,"Data Engineer",135000,3,"US",2
+"13",2022,3,2,"Data Engineer",80000,3,"US",2
+"14",2022,1,2,"BI Data Analyst",8191,3,"IN",2
+"15",2022,3,2,"Data Engineer",160000,3,"US",2
+"16",2022,3,2,"Data Engineer",85000,3,"US",2
+"17",2022,3,2,"Data Engineer",178800,3,"US",3
+"18",2022,3,2,"Data Engineer",132100,3,"US",3
+"20",2022,3,2,"Machine Learning Engineer",63963,2,"FI",1
+"21",2022,1,2,"Business Data Analyst",50000,3,"AS",3
+"22",2022,3,2,"Data Engineer",140000,3,"US",2
+"23",2022,3,2,"Data Engineer",105000,3,"US",2
+"24",2022,2,2,"Data Engineer",81946,3,"GB",2
+"25",2022,2,2,"Data Engineer",69339,3,"GB",2
+"26",2022,3,2,"Analytics Engineer",190000,3,"US",2
+"27",2022,3,2,"Analytics Engineer",140000,3,"US",2
+"28",2022,2,2,"Data Operations Engineer",100000,3,"US",2
+"29",2022,2,2,"Data Operations Engineer",60000,3,"US",2
+"30",2022,3,2,"Data Scientist",180000,3,"US",3
+"31",2022,3,2,"Data Scientist",165000,3,"US",3
+"32",2022,3,2,"Applied Machine Learning Scientist",108000,1,"US",3
+"33",2021,1,2,"Machine Learning Research Engineer",20000,2,"FR",2
+"34",2022,3,2,"Data Architect",190000,3,"US",2
+"35",2022,3,2,"Data Architect",135000,3,"US",2
+"36",2022,3,2,"Data Scientist",179400,1,"US",2
+"37",2022,3,2,"Data Scientist",154000,1,"US",2
+"38",2022,3,2,"Machine Learning Scientist",193900,1,"US",2
+"39",2022,3,2,"Machine Learning Scientist",129300,1,"US",2
+"40",2022,4,2,"Data Science Manager",222640,1,"US",2
+"41",2022,4,2,"Data Science Manager",182160,1,"US",2
+"42",2022,2,2,"Data Engineer",150000,1,"US",2
+"43",2022,2,2,"Data Engineer",100000,1,"US",2
+"44",2022,3,2,"Analytics Engineer",122500,3,"US",2
+"45",2022,3,2,"Analytics Engineer",100000,3,"US",2
+"46",2022,4,2,"Data Engineer",297500,3,"US",2
+"47",2022,4,2,"Data Engineer",260000,3,"US",2
+"48",2021,1,2,"Machine Learning Developer",15000,3,"TH",3
+"49",2022,3,2,"Data Engineering Manager",193000,3,"US",2
+"50",2022,1,2,"Data Scientist",93000,1,"US",2
+"51",2022,1,2,"Data Scientist",73000,1,"US",2
+"52",2022,2,2,"Data Operations Engineer",100000,3,"US",2
+"53",2022,2,2,"Data Operations Engineer",60000,3,"US",2
+"54",2022,1,2,"Data Analyst",7857,3,"BR",3
+"55",2022,3,2,"Data Scientist",136994,3,"US",2
+"56",2022,3,2,"Data Scientist",101570,3,"US",2
+"57",2022,3,2,"ETL Developer",250000,3,"US",2
+"58",2022,3,2,"ETL Developer",63000,3,"US",2
+"59",2022,2,2,"Data Manager",134000,1,"US",2
+"60",2022,2,2,"Data Manager",98000,1,"US",2
+"61",2022,3,2,"Data Scientist",191475,3,"US",2
+"62",2022,3,2,"Data Scientist",141525,3,"US",2
+"63",2022,3,2,"Director of Data Science",58632,2,"FR",3
+"64",2022,2,2,"Data Analyst",136000,3,"US",2
+"65",2022,2,2,"Data Analyst",112000,3,"US",2
+"66",2022,3,2,"Data Scientist",172000,3,"US",2
+"67",2022,3,2,"Data Scientist",140000,3,"US",2
+"68",2022,3,2,"Data Engineer",215000,1,"US",2
+"69",2022,3,2,"Data Engineer",164000,1,"US",2
+"70",2022,3,2,"Data Engineer",300000,1,"US",2
+"71",2022,3,2,"Data Engineer",130000,1,"US",2
+"72",2022,3,2,"Data Engineer",250000,3,"US",2
+"73",2022,3,2,"Data Engineer",63000,3,"US",2
+"74",2022,3,2,"Data Engineer",180000,3,"US",2
+"75",2022,3,2,"Data Engineer",150000,3,"US",2
+"76",2021,1,2,"Data Engineer",45390,2,"GB",3
+"77",2022,3,2,"Data Engineer",250000,3,"US",2
+"78",2022,3,2,"Data Engineer",63000,3,"US",2
+"79",2022,3,2,"Data Scientist",191475,3,"US",2
+"80",2022,3,2,"Data Scientist",141525,3,"US",2
+"81",2022,2,2,"Data Analyst",97500,3,"US",3
+"82",2022,3,2,"Applied Scientist",212800,3,"US",2
+"83",2022,3,2,"Applied Scientist",142800,3,"US",2
+"84",2022,2,2,"Data Scientist",74623,2,"NL",3
+"85",2022,1,2,"Data Scientist",50000,2,"DE",2
+"86",2022,1,2,"Data Analyst",6470,3,"IN",3
+"87",2022,3,2,"Data Scientist",151800,1,"US",2
+"88",2022,3,2,"Data Scientist",130240,1,"US",2
+"89",2022,3,2,"Analytics Engineer",165000,3,"US",2
+"90",2022,3,2,"Analytics Engineer",140250,3,"US",2
+"91",2022,3,2,"Data Engineer",135000,1,"US",2
+"92",2022,3,2,"Data Engineer",115000,1,"US",2
+"93",2022,3,2,"Data Scientist",179400,3,"US",2
+"94",2022,3,2,"Data Scientist",154000,3,"US",2
+"95",2022,3,2,"Data Scientist",191475,3,"US",2
+"96",2022,3,2,"Data Scientist",141525,3,"US",2
+"97",2022,3,2,"Data Scientist",191475,3,"US",2
+"98",2022,3,2,"Data Scientist",141525,3,"US",2
+"99",2022,3,2,"Data Scientist",191475,3,"US",2
+"100",2022,3,2,"Data Scientist",141525,3,"US",2
+"101",2022,2,2,"Financial Data Analyst",75000,1,"US",2
+"102",2022,2,2,"Data Engineer",85284,3,"GR",2
+"103",2022,2,2,"Data Engineer",74623,3,"GR",2
+"104",2022,2,2,"Data Engineer",100857,3,"GB",2
+"105",2022,2,2,"Data Engineer",88250,3,"GB",2
+"106",2022,2,2,"Data Engineer",85284,3,"ES",2
+"107",2022,2,2,"Data Engineer",74623,3,"ES",2
+"108",2022,3,2,"Data Scientist",191475,3,"US",2
+"109",2022,3,2,"Data Scientist",141525,3,"US",2
+"110",2022,3,2,"Data Scientist",191475,3,"US",2
+"111",2022,3,2,"Data Scientist",141525,3,"US",2
+"112",2022,3,2,"Analytics Engineer",105113,3,"GB",2
+"113",2022,3,2,"Analytics Engineer",81952,3,"GB",2
+"114",2022,3,2,"Data Scientist",191475,3,"US",2
+"115",2022,3,2,"Data Scientist",141525,3,"US",2
+"116",2022,3,2,"Data Engineer",107108,3,"GB",2
+"117",2022,3,2,"Data Engineer",84243,3,"GB",2
+"118",2022,3,2,"Data Scientist",191475,3,"US",2
+"119",2022,3,2,"Data Scientist",141525,3,"US",2
+"120",2022,3,2,"Data Scientist",191475,1,"US",2
+"121",2022,3,2,"Data Scientist",141525,1,"US",2
+"122",2022,3,2,"Data Analyst",115000,1,"US",3
+"123",2022,1,2,"Data Scientist",31981,2,"ES",2
+"124",2022,3,2,"Data Operations Analyst",81000,3,"US",2
+"125",2022,3,2,"Data Operations Analyst",66000,3,"US",2
+"126",2022,1,2,"Data Analyst",46000,3,"US",3
+"127",2022,1,2,"Data Engineer",80000,3,"US",3
+"128",2022,4,2,"Machine Learning Scientist",200000,3,"US",1
+"129",2022,4,2,"Machine Learning Scientist",180000,3,"US",1
+"130",2022,4,2,"AI Scientist",200000,3,"US",1
+"131",2022,3,2,"Data Scientist",204100,1,"US",2
+"132",2022,3,2,"Data Scientist",136100,1,"US",2
+"133",2022,3,2,"Analytics Engineer",250000,1,"US",2
+"134",2022,3,2,"Analytics Engineer",63000,1,"US",2
+"135",2022,2,2,"Data Scientist",121029,1,"GB",2
+"136",2022,2,2,"Data Scientist",113465,1,"GB",2
+"138",2022,3,2,"Data Scientist",191475,3,"US",2
+"139",2022,3,2,"Data Scientist",141525,3,"US",2
+"140",2022,3,2,"Data Scientist",191475,3,"US",2
+"141",2022,3,2,"Data Scientist",141525,3,"US",2
+"142",2022,3,2,"Data Scientist",191475,3,"US",2
+"143",2022,3,2,"Data Scientist",141525,3,"US",2
+"144",2022,3,2,"Data Specialist",95000,3,"US",2
+"145",2022,3,2,"Data Specialist",70000,3,"US",2
+"146",2022,2,2,"Applied Machine Learning Scientist",75000,3,"US",2
+"148",2022,2,2,"Data Analyst",113000,1,"US",3
+"149",2022,3,2,"Data Scientist",170000,3,"US",2
+"150",2022,3,2,"Data Scientist",130000,3,"US",2
+"151",2022,2,2,"Data Analytics Consultant",113000,3,"US",3
+"152",2022,2,2,"Product Data Analyst",140000,3,"US",2
+"153",2021,3,2,"Data Analyst",50000,3,"PH",1
+"154",2022,2,2,"BI Data Analyst",54590,3,"AU",2
+"155",2022,3,2,"Data Scientist",175000,1,"US",2
+"156",2022,3,2,"Data Scientist",140000,1,"US",2
+"157",2022,1,2,"3D Computer Vision Researcher",2324,1,"AL",3
+"158",2022,3,2,"Lead Data Scientist",30382,2,"PT",1
+"159",2022,3,2,"Analytics Engineer",250000,1,"US",2
+"160",2022,3,2,"Analytics Engineer",63000,1,"US",2
+"161",2022,3,2,"Data Scientist",160000,1,"US",3
+"162",2022,3,2,"Data Scientist",119300,1,"US",3
+"163",2022,2,2,"Research Scientist",145000,2,"US",3
+"164",2022,3,2,"Data Engineer",105000,1,"US",2
+"165",2022,3,2,"Data Engineer",90000,1,"US",2
+"166",2022,3,2,"ETL Developer",146200,3,"US",2
+"167",2022,3,2,"ETL Developer",124270,3,"US",2
+"168",2022,2,2,"Data Scientist",225000,1,"US",2
+"169",2022,2,2,"Data Scientist",160000,1,"US",2
+"170",2022,2,2,"Data Scientist",55434,3,"NL",1
+"171",2022,3,2,"Data Engineer",185800,3,"CA",2
+"172",2022,3,2,"Data Engineer",137400,3,"CA",2
+"173",2022,3,2,"Analytics Engineer",245000,1,"US",2
+"174",2022,3,2,"Analytics Engineer",180000,1,"US",2
+"175",2022,3,2,"Analytics Engineer",203500,1,"US",2
+"176",2022,3,2,"Analytics Engineer",152000,1,"US",2
+"177",2022,3,2,"Data Engineer",250000,1,"US",2
+"178",2022,3,2,"Data Engineer",63000,1,"US",2
+"179",2022,3,2,"Machine Learning Infrastructure Engineer",186000,3,"US",2
+"180",2022,3,2,"Machine Learning Infrastructure Engineer",148800,3,"US",2
+"181",2022,3,2,"Lead Machine Learning Engineer",97055,2,"IN",3
+"182",2022,2,2,"Machine Learning Engineer",131115,2,"GB",3
+"183",2022,1,2,"Data Scientist",82000,1,"US",3
+"185",2022,2,2,"Applied Machine Learning Scientist",173000,2,"US",2
+"186",2022,3,2,"Data Scientist",203500,1,"US",2
+"187",2022,3,2,"Data Scientist",152000,1,"US",2
+"188",2022,3,2,"Machine Learning Engineer",186000,3,"US",2
+"189",2022,3,2,"Machine Learning Engineer",148800,3,"US",2
+"190",2022,1,2,"BI Data Analyst",6317,3,"BR",3
+"191",2022,2,2,"Data Science Manager",158000,3,"US",2
+"192",2022,2,2,"Data Science Manager",134000,3,"US",2
+"193",2022,3,2,"Data Scientist",170000,3,"US",2
+"194",2022,3,2,"Data Scientist",120000,3,"US",2
+"195",2022,4,2,"Analytics Engineer",200000,3,"US",2
+"196",2022,4,2,"Analytics Engineer",150000,3,"US",2
+"197",2022,3,2,"Data Analyst",216200,1,"US",2
+"198",2022,3,2,"Data Analyst",144100,1,"US",2
+"199",2022,2,2,"Data Scientist",117265,1,"NL",2
+"200",2022,2,2,"Data Scientist",90614,1,"NL",2
+"201",2022,3,2,"ETL Developer",250000,1,"US",2
+"202",2022,3,2,"ETL Developer",63000,1,"US",2
+"203",2022,3,2,"Data Engineer",135000,3,"US",2
+"204",2022,3,2,"Data Engineer",85000,3,"US",2
+"205",2022,3,2,"Machine Learning Engineer",135000,3,"US",2
+"206",2022,3,2,"Machine Learning Engineer",85000,3,"US",2
+"207",2022,3,2,"Data Science Manager",206000,3,"US",2
+"208",2022,3,2,"Data Science Manager",175100,3,"US",2
+"209",2022,3,2,"Machine Learning Engineer",189650,1,"US",2
+"210",2022,3,2,"Machine Learning Engineer",164996,1,"US",2
+"211",2022,3,2,"Data Architect",149040,3,"US",2
+"212",2022,3,2,"Data Architect",113900,3,"US",2
+"213",2022,3,2,"Data Engineer",154000,3,"US",2
+"214",2022,3,2,"Data Engineer",126000,3,"US",2
+"215",2022,3,2,"Machine Learning Engineer",200000,3,"US",3
+"216",2022,3,2,"Machine Learning Engineer",150000,3,"US",3
+"217",2022,3,2,"Data Engineer",195700,1,"US",2
+"218",2022,3,2,"Data Engineer",130500,1,"US",2
+"219",2022,3,2,"Analytics Engineer",170000,3,"US",2
+"220",2022,3,2,"Analytics Engineer",135000,3,"US",2
+"221",2022,2,2,"Data Engineer",100857,1,"GB",2
+"222",2022,2,2,"Data Engineer",75643,1,"GB",2
+"223",2022,3,2,"Data Analyst",117000,3,"US",2
+"224",2022,3,2,"Data Analyst",99450,3,"US",2
+"225",2022,3,2,"Data Engineer",200000,3,"PR",2
+"226",2022,3,2,"Data Engineer",135000,3,"PR",2
+"227",2022,3,2,"Machine Learning Engineer",193900,1,"US",2
+"228",2022,3,2,"Machine Learning Engineer",129300,1,"US",2
+"229",2022,1,2,"Machine Learning Engineer",56732,3,"GB",1
+"230",2022,3,2,"Data Analyst",88250,1,"GB",2
+"231",2022,3,2,"Data Analyst",63036,1,"GB",2
+"232",2022,3,2,"Data Analyst",175000,3,"US",2
+"233",2022,3,2,"Data Analyst",130000,3,"US",2
+"234",2022,3,2,"Data Engineer",188100,1,"US",2
+"235",2022,3,2,"Data Engineer",139860,1,"US",2
+"236",2022,3,2,"Machine Learning Engineer",248700,1,"US",2
+"237",2022,3,2,"Machine Learning Engineer",167100,1,"US",2
+"238",2022,2,2,"Data Analyst",5823,3,"IN",1
+"239",2022,3,2,"Data Scientist",123400,1,"US",2
+"240",2022,3,2,"Data Scientist",88100,1,"US",2
+"241",2022,2,2,"BI Data Analyst",51170,3,"DE",1
+"242",2022,3,2,"Data Scientist",245000,1,"US",2
+"243",2022,3,2,"Data Scientist",205000,1,"US",2
+"244",2022,3,2,"Data Engineer",141300,1,"US",2
+"245",2022,3,2,"Data Engineer",102100,1,"US",2
+"246",2022,3,2,"Data Architect",141300,1,"US",2
+"247",2022,3,2,"Data Architect",102100,1,"US",2
+"248",2022,1,2,"Data Analyst",50000,3,"AR",3
+"249",2022,1,2,"Data Scientist",85284,3,"BE",3
+"250",2022,3,2,"Data Scientist",2437,3,"BR",3
+"251",2022,2,2,"Lead Data Scientist",63036,2,"GB",1
+"252",2022,3,2,"Data Architect",250000,1,"US",2
+"253",2022,3,2,"Data Architect",63000,1,"US",2
+"254",2022,3,2,"Data Science Manager",189500,3,"US",3
+"255",2022,3,2,"Data Science Manager",140100,3,"US",3
+"256",2022,3,2,"Data Engineer",177600,3,"US",3
+"257",2022,3,2,"Data Engineer",131300,3,"US",3
+"258",2022,2,2,"Data Engineer",24000,1,"US",2
+"259",2022,2,2,"Data Engineer",24000,1,"US",2
+"260",2022,3,2,"Data Engineer",250000,1,"US",2
+"261",2022,3,2,"Data Engineer",63000,1,"US",2
+"262",2022,3,2,"Machine Learning Engineer",202900,3,"US",3
+"263",2022,3,2,"Machine Learning Engineer",131300,3,"US",3
+"264",2022,3,2,"Data Engineer",145000,3,"US",2
+"265",2022,3,2,"Data Engineer",115000,3,"US",2
+"266",2022,1,2,"Machine Learning Engineer",115000,2,"US",3
+"267",2022,2,2,"Machine Learning Engineer",193900,1,"US",2
+"268",2022,2,2,"Machine Learning Engineer",129300,1,"US",2
+"269",2022,3,2,"Data Scientist",180000,3,"US",3
+"270",2022,3,2,"Data Scientist",140000,3,"US",3
+"271",2022,2,2,"Data Analyst",216200,1,"US",2
+"272",2022,2,2,"Data Analyst",144100,1,"US",2
+"273",2022,3,2,"Machine Learning Scientist",216000,1,"US",2
+"274",2022,3,2,"Machine Learning Scientist",144000,1,"US",2
+"275",2022,1,2,"Data Analyst",150000,3,"US",3
+"276",2021,1,2,"Machine Learning Research Engineer",12171,3,"IN",2
+"277",2022,2,2,"Data Scientist",54350,3,"ID",3
+"278",2022,1,2,"Applied Data Scientist",50000,2,"AT",2
+"279",2021,3,2,"Cloud Data Architect",250000,2,"US",3
+"280",2022,4,2,"Research Scientist",85284,1,"NL",3
+"281",2022,2,2,"Data Scientist",134897,3,"GB",2
+"282",2022,3,2,"Analytics Engineer",48000,3,"US",1
+"283",2022,4,2,"Data Science Manager",260500,1,"US",2
+"284",2022,4,2,"Data Science Manager",175100,1,"US",2
+"285",2022,3,2,"Data Engineer",210000,3,"US",2
+"286",2022,3,2,"Data Engineer",100000,3,"US",2
+"287",2022,1,2,"Data Analyst",55000,3,"US",1
+"288",2022,2,2,"Data Analyst",130000,3,"US",2
+"289",2022,3,2,"Applied Machine Learning Scientist",78248,3,"GB",3
+"290",2022,1,2,"Data Scientist",52769,2,"BE",1
+"292",2022,3,2,"Data Engineer",206699,1,"US",2
+"293",2022,3,2,"Data Engineer",99100,1,"US",2
+"294",2022,2,2,"Analytics Engineer",200000,1,"US",2
+"295",2022,2,2,"Analytics Engineer",54000,1,"US",2
+"296",2022,3,2,"Data Engineer",250000,1,"US",2
+"297",2022,3,2,"Data Engineer",63000,1,"US",2
+"298",2022,3,2,"Data Architect",250000,1,"US",2
+"299",2022,3,2,"Data Architect",63000,1,"US",2
+"300",2022,3,2,"Data Engineer",250000,1,"US",2
+"301",2022,3,2,"Data Engineer",63000,1,"US",2
+"302",2022,1,2,"Analytics Engineer",130000,2,"US",3
+"303",2022,3,2,"Data Engineer",100000,1,"US",3
+"304",2022,3,2,"Data Engineer",80000,1,"US",3
+"305",2022,3,2,"Data Scientist",160000,1,"US",3
+"306",2022,3,2,"Data Scientist",100000,1,"US",3
+"307",2022,3,2,"Data Specialist",221300,3,"US",3
+"308",2022,3,2,"Data Specialist",148700,3,"US",3
+"309",2022,1,2,"Machine Learning Engineer",30000,3,"GB",3
+"310",2022,1,2,"Data Analyst",28783,2,"FR",2
+"311",2022,2,2,"Data Engineer",93293,1,"GB",2
+"312",2022,2,2,"Data Engineer",63036,1,"GB",2
+"313",2022,2,2,"Data Scientist",61830,3,"DE",1
+"314",2022,3,2,"Data Science Manager",249260,1,"US",2
+"315",2022,3,2,"Data Science Manager",185400,1,"US",2
+"316",2022,3,2,"Data Engineer",170000,3,"US",2
+"317",2022,3,2,"Data Engineer",130000,3,"US",2
+"318",2022,2,2,"Data Scientist",81946,2,"GB",2
+"319",2022,3,2,"Data Analyst",128875,3,"US",2
+"320",2022,3,2,"Data Analyst",93700,3,"US",2
+"321",2022,3,2,"Machine Learning Engineer",180000,3,"US",2
+"322",2022,3,2,"Machine Learning Engineer",100000,3,"US",2
+"323",2022,3,2,"Data Analyst",136260,3,"US",2
+"324",2022,3,2,"Data Analyst",109280,3,"US",2
+"325",2022,3,2,"Data Scientist",160000,3,"US",3
+"326",2022,3,2,"Data Scientist",92000,3,"US",3
+"327",2022,3,2,"Data Engineer",200000,3,"US",2
+"328",2022,3,2,"Data Engineer",160000,3,"US",2
+"329",2022,2,2,"Data Engineer",138679,1,"GB",2
+"330",2022,2,2,"Data Engineer",107161,1,"GB",2
+"331",2022,3,2,"Data Analyst",117000,3,"US",2
+"332",2022,3,2,"Data Analyst",99450,3,"US",2
+"333",2022,1,2,"AI Scientist",3105,1,"IN",1
+"334",2022,1,2,"Data Engineer",129000,3,"US",3
+"335",2022,1,2,"Data Engineer",86000,3,"US",3
+"336",2020,1,2,"Data Engineer",13493,3,"IN",3
+"337",2020,1,2,"Data Engineer",13493,3,"IN",3
+"338",2022,3,2,"Data Scientist",160000,1,"US",3
+"339",2022,3,2,"Data Scientist",119300,1,"US",3
+"340",2022,3,2,"Business Data Analyst",100000,3,"US",3
+"341",2022,2,2,"Data Scientist",25000,2,"TR",2
+"342",2022,2,2,"Data Analyst",65516,2,"SG",2
+"343",2022,2,2,"AI Scientist",200000,3,"US",2
+"344",2022,1,2,"Machine Learning Developer",180000,3,"US",3
+"345",2022,2,2,"Data Scientist",153000,3,"US",3
+"346",2022,3,2,"Data Engineer",210000,3,"US",2
+"347",2022,3,2,"Data Engineer",100000,3,"US",2
+"348",2022,3,2,"Data Analyst",150075,3,"US",2
+"349",2022,3,2,"Data Analyst",110925,3,"US",2
+"350",2022,2,2,"Machine Learning Scientist",22800,3,"EG",2
+"351",2022,3,2,"Data Scientist",160000,3,"US",3
+"352",2022,3,2,"Data Scientist",92000,3,"US",3
+"353",2022,3,2,"Machine Learning Engineer",202900,3,"US",3
+"354",2022,3,2,"Machine Learning Engineer",131300,3,"US",3
+"355",2020,1,2,"Data Analyst",22809,3,"PT",2
+"356",2022,1,2,"Data Analyst",15000,1,"ID",3
+"357",2022,3,2,"Data Engineer",175000,3,"US",2
+"358",2022,3,2,"Data Engineer",135000,3,"US",2
+"359",2022,3,2,"Data Science Manager",136830,3,"AU",3
+"360",2022,1,2,"Machine Learning Engineer",83000,1,"US",3
+"361",2022,2,2,"Data Engineer",94554,3,"GB",2
+"362",2022,2,2,"Data Engineer",69339,3,"GB",2
+"363",2022,3,2,"Data Scientist",186000,1,"US",2
+"364",2022,3,2,"Data Scientist",148800,1,"US",2
+"365",2022,3,2,"Data Analyst",112900,1,"US",2
+"366",2022,3,2,"Data Analyst",90320,1,"US",2
+"367",2022,3,2,"ML Engineer",240000,1,"US",2
+"368",2022,3,2,"ML Engineer",160000,1,"US",2
+"369",2022,3,2,"Data Science Manager",300000,3,"US",2
+"370",2022,3,2,"Data Science Manager",200000,3,"US",2
+"371",2022,2,2,"Data Engineer",66628,2,"DE",1
+"372",2022,2,2,"AI Scientist",200000,3,"US",3
+"373",2022,2,2,"Machine Learning Engineer",119768,1,"GB",2
+"374",2022,2,2,"Machine Learning Engineer",94554,1,"GB",2
+"375",2022,2,2,"AI Scientist",120000,1,"US",2
+"376",2022,3,2,"Data Analyst",112900,3,"US",2
+"377",2022,3,2,"Data Analyst",90320,3,"US",2
+"378",2022,3,2,"Data Analytics Manager",145000,3,"US",2
+"379",2022,3,2,"Data Analytics Manager",105400,3,"US",2
+"380",2020,1,2,"Data Scientist",49268,1,"DE",1
+"381",2022,2,2,"Data Engineer",113465,1,"GB",2
+"382",2022,2,2,"Data Engineer",94554,1,"GB",2
+"383",2022,3,2,"Data Scientist",215300,3,"US",3
+"384",2022,3,2,"Data Scientist",158200,3,"US",3
+"385",2022,3,2,"Data Engineer",209100,3,"US",3
+"386",2022,3,2,"Data Engineer",154600,3,"US",3
+"387",2022,3,2,"Data Analyst",115934,1,"US",2
+"388",2022,3,2,"Data Analyst",81666,1,"US",2
+"389",2022,3,2,"Data Engineer",175000,3,"US",2
+"390",2022,3,2,"Data Engineer",155000,3,"US",2
+"391",2022,2,2,"Machine Learning Engineer",85284,3,"DE",2
+"392",2022,3,2,"Data Analyst",164000,1,"US",2
+"393",2022,3,2,"Data Analyst",132000,1,"US",2
+"394",2022,3,2,"Data Scientist",170000,3,"US",2
+"395",2022,3,2,"Data Scientist",123000,3,"US",2
+"396",2022,3,2,"Machine Learning Engineer",189650,1,"US",2
+"397",2022,3,2,"Machine Learning Engineer",164996,1,"US",2
+"398",2022,2,2,"ETL Developer",53302,1,"GR",2
+"399",2022,2,2,"ETL Developer",53302,1,"GR",2
+"400",2022,4,2,"Lead Data Engineer",117214,3,"CA",1
+"401",2022,3,2,"Data Engineer",165400,3,"US",2
+"402",2022,3,2,"Data Engineer",132320,3,"US",2
+"403",2022,3,2,"Data Architect",208775,3,"US",2
+"404",2022,3,2,"Data Architect",147800,3,"US",2
+"405",2022,3,2,"Data Engineer",136994,3,"US",2
+"406",2022,3,2,"Data Engineer",101570,3,"US",2
+"407",2022,3,2,"Data Analyst",128875,3,"US",2
+"408",2022,3,2,"Data Analyst",93700,3,"US",2
+"409",2022,4,2,"Head of Machine Learning",77644,2,"IN",3
+"410",2022,1,2,"Machine Learning Engineer",35930,3,"GB",3
+"411",2022,3,2,"Data Engineer",183600,3,"US",3
+"412",2022,3,2,"Data Engineer",100800,3,"US",3
+"413",2022,2,2,"Data Analyst",50428,3,"GB",2
+"414",2022,2,2,"Data Analyst",37821,3,"GB",2
+"415",2022,2,2,"Data Analyst",42642,3,"ES",2
+"416",2022,2,2,"Data Analyst",31981,3,"ES",2
+"417",2022,2,2,"Data Engineer",85284,3,"ES",2
+"418",2022,2,2,"Data Engineer",74623,3,"ES",2
+"419",2022,2,2,"Data Engineer",100857,3,"GB",2
+"420",2022,2,2,"Data Engineer",88250,3,"GB",2
+"421",2022,2,2,"Data Engineer",85284,3,"GR",2
+"422",2022,2,2,"Data Engineer",74623,3,"GR",2
+"423",2022,3,2,"Machine Learning Engineer",189650,1,"US",2
+"424",2022,3,2,"Machine Learning Engineer",164996,1,"US",2
+"425",2022,2,2,"Data Analyst",42642,3,"GR",2
+"426",2022,2,2,"Data Analyst",31981,3,"GR",2
+"427",2022,2,2,"Data Engineer",94554,3,"GB",2
+"428",2022,2,2,"Data Engineer",75643,3,"GB",2
+"429",2022,3,2,"Data Scientist",215300,1,"US",3
+"430",2022,3,2,"Data Scientist",140400,1,"US",3
+"431",2022,2,2,"Data Engineer",63963,3,"ES",2
+"432",2022,2,2,"Data Engineer",47972,3,"ES",2
+"433",2022,3,2,"Data Scientist",260000,3,"US",2
+"434",2022,3,2,"Data Scientist",180000,3,"US",2
+"435",2022,2,2,"Data Scientist",69339,1,"GB",2
+"436",2022,2,2,"Data Scientist",44125,1,"GB",2
+"437",2022,2,2,"Data Engineer",63963,3,"GR",2
+"438",2022,2,2,"Data Engineer",47972,3,"GR",2
+"439",2022,2,2,"Data Engineer",75643,3,"GB",2
+"440",2022,2,2,"Data Engineer",56732,3,"GB",2
+"441",2021,2,2,"Machine Learning Engineer",51064,2,"IT",3
+"442",2022,3,2,"Data Science Engineer",60000,3,"MX",3
+"443",2022,2,2,"Data Engineer",82900,1,"US",2
+"444",2022,2,2,"Data Engineer",63900,1,"US",2
+"445",2022,2,2,"Machine Learning Scientist",160000,3,"US",3
+"446",2022,2,2,"Machine Learning Scientist",112300,3,"US",3
+"447",2022,2,2,"Data Science Manager",241000,3,"US",2
+"448",2022,2,2,"Data Science Manager",159000,3,"US",2
+"449",2022,3,2,"Data Scientist",180000,1,"US",2
+"450",2022,3,2,"Data Scientist",80000,1,"US",2
+"451",2022,2,2,"Data Analyst",58000,1,"US",1
+"452",2022,2,2,"Data Analyst",58000,1,"US",1
+"453",2022,3,2,"Data Engineer",136000,1,"US",2
+"454",2022,3,2,"Data Engineer",108800,1,"US",2
+"455",2022,4,2,"Data Engineer",242000,3,"US",2
+"456",2022,4,2,"Data Engineer",200000,3,"US",2
+"457",2022,2,2,"Data Scientist",63036,1,"GB",2
+"458",2022,2,2,"Data Scientist",37821,1,"GB",2
+"459",2022,2,2,"Data Engineer",75643,1,"GB",2
+"460",2022,2,2,"Data Engineer",50428,1,"GB",2
+"461",2022,3,2,"Data Scientist",165220,3,"US",2
+"462",2022,3,2,"Data Scientist",120160,3,"US",2
+"463",2022,3,2,"Data Analyst",124190,3,"US",2
+"464",2022,3,2,"Data Analyst",90320,3,"US",2
+"465",2022,3,2,"Data Engineer",181940,1,"US",2
+"466",2022,3,2,"Data Engineer",132320,1,"US",2
+"467",2022,3,2,"Data Engineer",220110,1,"US",2
+"468",2022,3,2,"Data Engineer",160080,1,"US",2
+"469",2022,3,2,"Data Scientist",180000,1,"US",3
+"470",2022,3,2,"Data Scientist",120000,1,"US",3
+"471",2022,2,2,"Data Analyst",126500,1,"US",2
+"472",2022,2,2,"Data Analyst",106260,1,"US",2
+"473",2022,3,2,"Data Analyst",116000,1,"US",2
+"474",2022,3,2,"Data Analyst",99000,1,"US",2
+"475",2022,3,2,"Data Analyst",155000,3,"US",2
+"476",2022,3,2,"Data Analyst",120600,3,"US",2
+"477",2022,2,2,"Data Scientist",130000,1,"US",2
+"478",2022,2,2,"Data Scientist",90000,1,"US",2
+"479",2022,2,2,"Data Engineer",170000,3,"US",2
+"480",2022,2,2,"Data Engineer",150000,3,"US",2
+"481",2022,3,2,"Data Analyst",102100,3,"US",2
+"482",2022,3,2,"Data Analyst",84900,3,"US",2
+"483",2022,3,2,"Data Scientist",136620,3,"US",2
+"484",2022,3,2,"Data Scientist",99360,3,"US",2
+"485",2022,3,2,"Data Scientist",113465,1,"GB",2
+"486",2022,3,2,"Data Scientist",100857,1,"GB",2
+"487",2022,3,2,"Data Scientist",146000,3,"US",2
+"488",2022,3,2,"Data Scientist",123000,3,"US",2
+"489",2022,1,2,"Data Engineer",50428,3,"GB",2
+"490",2022,1,2,"Data Engineer",44125,3,"GB",2
+"491",2022,4,2,"Data Analyst",130000,3,"US",2
+"492",2022,4,2,"Data Analyst",110000,3,"US",2
+"493",2022,3,2,"Data Analyst",170000,3,"US",2
+"494",2022,3,2,"Data Analyst",135000,3,"US",2
+"495",2022,3,2,"Data Science Manager",161342,3,"US",2
+"496",2022,3,2,"Data Science Manager",137141,3,"US",2
+"497",2022,3,2,"Data Scientist",167000,3,"US",2
+"498",2022,3,2,"Data Scientist",123000,3,"US",2
+"499",2022,3,2,"Data Engineer",75643,1,"GB",2
+"500",2022,3,2,"Data Engineer",63036,1,"GB",2
+"501",2022,3,2,"Data Scientist",211500,3,"US",2
+"502",2022,3,2,"Data Scientist",138600,3,"US",2
+"503",2022,3,2,"Data Architect",192400,3,"CA",2
+"504",2022,3,2,"Data Architect",90700,3,"CA",2
+"505",2022,3,2,"Data Analyst",130000,3,"CA",2
+"506",2022,3,2,"Data Analyst",61300,3,"CA",2
+"507",2022,3,2,"Data Analyst",130000,3,"CA",2
+"508",2022,3,2,"Data Analyst",61300,3,"CA",2
+"509",2022,3,2,"Data Engineer",160000,1,"US",3
+"510",2022,3,2,"Data Engineer",113000,1,"US",3
+"511",2022,3,2,"Data Scientist",150000,1,"US",2
+"512",2022,3,2,"Data Scientist",95550,1,"US",2
+"513",2022,2,2,"Data Analyst",167000,3,"US",2
+"514",2022,2,2,"Data Analyst",115500,3,"US",2
+"515",2022,3,2,"Data Analyst",112900,3,"US",2
+"516",2022,3,2,"Data Analyst",90320,3,"US",2
+"517",2022,3,2,"Data Analyst",112900,3,"US",2
+"518",2022,3,2,"Data Analyst",90320,3,"US",2
+"519",2022,3,2,"Data Engineer",165400,3,"US",2
+"520",2022,3,2,"Data Engineer",132320,3,"US",2
+"521",2022,3,2,"Data Engineer",243900,3,"US",2
+"522",2022,3,2,"Data Engineer",156600,3,"US",2
+"523",2022,3,2,"Data Analyst",136600,3,"US",2
+"524",2022,3,2,"Data Analyst",109280,3,"US",2
+"525",2022,3,2,"Data Engineer",128875,3,"US",2
+"526",2022,3,2,"Data Engineer",93700,3,"US",2
+"527",2022,4,2,"Head of Data Science",224000,3,"US",2
+"528",2022,4,2,"Head of Data Science",167875,3,"US",2
+"529",2022,4,2,"Analytics Engineer",175000,3,"US",2
+"530",2022,4,2,"Analytics Engineer",135000,3,"US",2
+"531",2022,3,2,"Data Engineer",209100,3,"US",3
+"532",2022,3,2,"Data Engineer",154600,3,"US",3
+"533",2022,3,2,"Data Engineer",180000,3,"US",2
+"534",2022,3,2,"Data Engineer",160000,3,"US",2
+"535",2022,3,2,"Data Scientist",205300,1,"US",3
+"536",2022,3,2,"Data Scientist",140400,1,"US",3
+"537",2022,3,2,"Data Scientist",176000,3,"US",2
+"538",2022,3,2,"Data Scientist",144000,3,"US",2
+"539",2022,3,2,"Data Engineer",200100,3,"US",2
+"540",2022,3,2,"Data Engineer",160000,3,"US",2
+"541",2022,3,2,"Data Engineer",70500,1,"US",2
+"542",2022,3,2,"Data Engineer",54000,1,"US",2
+"543",2022,3,2,"Data Scientist",205300,1,"US",2
+"544",2022,3,2,"Data Scientist",140400,1,"US",2
+"545",2022,3,2,"Analytics Engineer",205300,1,"US",2
+"546",2022,3,2,"Analytics Engineer",184700,1,"US",2
+"547",2022,3,2,"Data Engineer",175100,3,"US",2
+"548",2022,3,2,"Data Engineer",140250,3,"US",2
+"549",2022,3,2,"Data Analyst",116150,3,"US",2
+"550",2022,3,2,"Data Analyst",99050,3,"US",2
+"551",2022,3,2,"Data Engineer",145000,3,"US",2
+"552",2022,3,2,"Data Engineer",130000,3,"US",2
+"553",2022,3,2,"Data Analyst",112900,3,"US",2
+"554",2022,3,2,"Data Analyst",90320,3,"US",2
+"555",2022,2,2,"Data Analyst",85000,1,"CA",2
+"556",2022,2,2,"Data Analyst",75000,1,"CA",2
+"557",2022,3,2,"Machine Learning Engineer",214000,3,"US",2
+"558",2022,3,2,"Machine Learning Engineer",192600,3,"US",2
+"559",2022,3,2,"Data Architect",266400,3,"US",2
+"560",2022,3,2,"Data Architect",213120,3,"US",2
+"561",2022,3,2,"Data Engineer",155000,3,"US",2
+"562",2022,3,2,"Data Engineer",115000,3,"US",2
+"563",2022,2,2,"Data Scientist",141300,1,"US",2
+"564",2022,2,2,"Data Scientist",102100,1,"US",2
+"565",2022,3,2,"Data Analyst",115934,3,"US",2
+"566",2022,3,2,"Data Analyst",81666,3,"US",2
+"567",2022,2,2,"Data Engineer",206699,1,"US",2
+"568",2022,2,2,"Data Engineer",99100,1,"US",2
+"569",2022,3,2,"Data Engineer",130000,3,"US",2
+"570",2022,3,2,"Data Engineer",110500,3,"US",2
+"571",2022,2,2,"Data Analyst",63036,1,"GB",2
+"572",2022,2,2,"Data Analyst",44125,1,"GB",2
+"573",2022,3,2,"Data Analyst",80000,3,"US",2
+"574",2022,3,2,"Data Analyst",60000,3,"US",2
+"575",2022,3,2,"Data Architect",192564,3,"US",2
+"576",2022,3,2,"Data Architect",144854,3,"US",2
+"577",2022,3,2,"Data Scientist",230000,3,"US",2
+"578",2022,3,2,"Data Scientist",150000,3,"US",2
+"579",2022,3,2,"Data Analytics Manager",150260,3,"US",2
+"580",2022,3,2,"Data Analytics Manager",109280,3,"US",2
+"581",2022,3,2,"Data Analyst",170000,3,"US",2
+"582",2022,3,2,"Data Analyst",150000,3,"US",2
+"583",2022,2,2,"Data Scientist",160000,3,"US",2
+"584",2022,2,2,"Data Scientist",130000,3,"US",2
+"585",2022,1,2,"Data Analyst",67000,1,"CA",2
+"586",2022,1,2,"Data Analyst",52000,1,"CA",2
+"587",2022,3,2,"Data Engineer",154000,3,"US",2
+"588",2022,3,2,"Data Engineer",126000,3,"US",2
+"589",2022,3,2,"Data Analyst",129000,1,"US",2
+"590",2022,3,2,"Data Analyst",99000,1,"US",2
+"591",2022,3,2,"Data Scientist",210000,3,"US",2
+"592",2022,3,2,"Data Scientist",140000,3,"US",2
+"593",2022,3,2,"Data Scientist",210000,3,"US",2
+"594",2022,3,2,"Data Scientist",140000,3,"US",2
+"595",2022,3,2,"Data Scientist",210000,3,"US",2
+"596",2022,3,2,"Data Scientist",140000,3,"US",2
+"597",2022,3,2,"Data Analyst",100000,3,"US",2
+"598",2022,3,2,"Data Analyst",69000,3,"US",2
+"599",2022,3,2,"Data Scientist",210000,3,"US",2
+"600",2022,3,2,"Data Scientist",140000,3,"US",2
+"601",2022,3,2,"Data Analyst",150075,3,"US",2
+"602",2022,3,2,"Data Analyst",110925,3,"US",2
+"603",2022,3,2,"Data Engineer",100000,3,"US",2
+"604",2022,3,2,"Data Engineer",25000,3,"US",2
+"605",2022,3,2,"Data Analyst",126500,3,"US",2
+"606",2022,3,2,"Data Analyst",106260,3,"US",2
+"607",2022,3,2,"Data Engineer",220110,3,"US",2
+"608",2022,3,2,"Data Engineer",160080,3,"US",2
+"609",2022,3,2,"Data Analyst",105000,3,"US",2
+"610",2022,3,2,"Data Analyst",100000,3,"US",2
+"611",2022,3,2,"Data Analyst",170000,3,"US",2
+"612",2022,3,2,"Data Analyst",135000,3,"US",2
+"613",2022,3,2,"Data Scientist",230000,3,"US",2
+"614",2022,3,2,"Data Scientist",140000,3,"US",2
+"615",2022,2,2,"Data Analyst",135000,3,"US",2
+"616",2022,2,2,"Data Analyst",50000,3,"US",2
+"617",2022,3,2,"Data Scientist",220000,3,"US",2
+"618",2022,3,2,"Data Scientist",140000,3,"US",2
+"619",2022,2,2,"Data Scientist",176501,1,"GB",2
+"620",2022,2,2,"Data Scientist",88250,1,"GB",2
+"621",2022,3,2,"Machine Learning Engineer",220000,3,"US",2
+"622",2022,3,2,"Machine Learning Engineer",120000,3,"US",2
+"623",2022,2,2,"Data Scientist",200000,3,"US",2
+"624",2022,2,2,"Data Scientist",120000,3,"US",2
+"625",2022,3,2,"Machine Learning Engineer",120000,3,"AE",1
+"626",2022,3,2,"Machine Learning Engineer",65000,3,"AE",1
+"627",2022,4,2,"Data Engineer",324000,3,"US",2
+"628",2022,4,2,"Data Engineer",216000,3,"US",2
+"629",2022,3,2,"Data Engineer",210000,3,"US",2
+"630",2022,3,2,"Data Engineer",100000,3,"US",2
+"631",2022,3,2,"Data Scientist",185100,3,"US",2
+"632",2022,3,2,"Data Scientist",104890,3,"US",2
+"633",2022,3,2,"Data Engineer",105000,3,"US",2
+"634",2022,3,2,"Data Engineer",80000,3,"US",2
+"635",2022,2,2,"Machine Learning Developer",78143,3,"CA",2
+"636",2020,3,2,"Machine Learning Manager",117104,2,"CA",3
+"637",2022,4,2,"Director of Data Science",195358,2,"CA",3
+"638",2022,2,2,"Machine Learning Engineer",120000,3,"US",1
+"639",2022,2,2,"NLP Engineer",36454,2,"US",3
+"640",2022,2,2,"Business Data Analyst",18116,3,"IN",2
+"641",2022,2,2,"Data Scientist",31057,3,"IN",3
+"642",2022,2,2,"Machine Learning Infrastructure Engineer",56500,2,"PT",3
+"644",2022,1,2,"Data Scientist",18116,3,"IN",2
+"645",2022,2,2,"Applied Machine Learning Scientist",75000,3,"US",3
+"646",2022,2,2,"Applied Data Scientist",157000,3,"US",3
+"647",2022,2,2,"Business Data Analyst",70328,2,"CA",3
+"648",2022,1,2,"Data Engineer",65000,3,"US",1
+"649",2022,3,2,"Machine Learning Engineer",69293,3,"IE",1
+"650",2021,2,2,"Data Scientist",109000,2,"US",3
+"651",2022,2,2,"Data Scientist",68766,3,"CA",2
+"652",2022,1,2,"Computer Vision Engineer",10000,3,"LU",2
+"653",2022,2,2,"Data Analyst",20000,3,"GR",1
+"654",2021,3,2,"Head of Data",102839,3,"SI",3
+"655",2022,3,2,"Head of Data",200000,3,"US",2
+"656",2022,1,2,"Data Scientist",51965,3,"CA",3
+"657",2022,2,2,"Data Scientist",78000,3,"US",2
+"658",2022,3,2,"Data Engineer",135000,3,"US",2
+"659",2022,3,2,"Data Engineer",115000,3,"US",2
+"660",2022,2,2,"Machine Learning Engineer",85785,3,"AU",3
+"661",2022,1,2,"Data Scientist",40000,3,"MY",3
+"662",2022,2,2,"Head of Data",31981,3,"EE",1
+"663",2022,3,2,"Machine Learning Engineer",60764,3,"NL",3
+"664",2020,1,2,"Data Engineer",54742,3,"DE",3
+"665",2022,3,2,"Research Scientist",90614,2,"FR",3
+"666",2022,1,2,"Data Scientist",85076,2,"AU",2
+"667",2022,3,2,"Data Scientist",165000,3,"US",2
+"668",2022,2,2,"Machine Learning Scientist",153000,2,"US",2
+"669",2022,3,2,"Data Scientist",100000,3,"US",2
+"670",2022,3,2,"Machine Learning Developer",78143,3,"CA",2
+"671",2022,2,2,"Data Scientist",34243,3,"PL",3
+"672",2022,2,2,"Principal Data Analyst",75000,3,"CA",1
+"673",2020,2,2,"Product Data Analyst",20000,1,"HN",1
+"675",2021,2,2,"Research Scientist",69999,2,"CZ",3
+"676",2022,1,2,"Data Engineer",56287,3,"DE",2
+"677",2022,2,2,"Research Scientist",62896,1,"AT",3
+"678",2022,3,2,"Data Science Manager",152500,3,"US",2
+"679",2022,1,2,"Research Scientist",120000,3,"US",3
+"680",2022,2,2,"Data Scientist",135000,3,"US",3
+"681",2022,3,2,"Data Analytics Lead",405000,3,"US",3
+"682",2021,3,2,"Data Engineering Manager",150000,1,"US",3
+"683",2021,3,2,"Data Science Manager",240000,1,"US",3
+"684",2021,2,2,"Data Analyst",135000,3,"US",3
+"685",2021,1,2,"Data Scientist",80000,3,"US",2
+"686",2022,3,2,"Applied Data Scientist",380000,3,"US",3
+"687",2022,2,2,"Data Scientist",120964,1,"CH",3
+"688",2022,3,2,"Applied Data Scientist",177000,3,"US",3
+"689",2022,2,2,"Data Engineer",66095,3,"FR",2
+"690",2022,2,2,"Data Scientist",48000,3,"US",1
+"691",2022,1,2,"Data Analytics Engineer",20000,1,"PK",2
+"692",2021,3,2,"Principal Data Scientist",220000,1,"US",3
+"693",2021,2,2,"ML Engineer",77364,2,"JP",1
+"694",2021,2,2,"ML Engineer",63711,2,"JP",1
+"695",2022,1,2,"Computer Vision Software Engineer",150000,3,"AU",1
+"696",2021,2,2,"Data Analyst",90000,3,"US",2
+"698",2021,1,2,"Data Scientist",100000,1,"US",1
+"700",2022,3,2,"Research Scientist",144000,2,"US",3
+"701",2022,3,2,"Principal Data Scientist",157775,3,"DE",2
+"702",2021,3,2,"Computer Vision Engineer",24000,3,"BR",2
+"703",2021,2,2,"Applied Machine Learning Scientist",38400,3,"US",2
+"704",2022,1,2,"Financial Data Analyst",100000,2,"US",3
+"705",2021,2,2,"Data Scientist",82500,3,"US",1
+"706",2021,1,2,"Data Scientist",49646,2,"FR",2
+"707",2021,3,2,"Lead Data Scientist",40570,2,"IN",3
+"708",2022,1,2,"Data Engineer",120000,3,"US",2
+"709",2022,3,2,"Lead Machine Learning Engineer",85284,1,"DE",2
+"710",2021,1,2,"Machine Learning Engineer",20000,3,"IN",1
+"711",2022,1,2,"Computer Vision Engineer",125000,1,"US",2
+"712",2021,2,2,"Data Scientist",9466,1,"IN",1
+"713",2021,3,2,"Machine Learning Scientist",120000,2,"US",1
+"715",2021,1,2,"Applied Data Scientist",110037,1,"GB",3
+"716",2022,1,2,"ML Engineer",21321,3,"PT",3
+"717",2021,1,2,"Data Analyst",50000,3,"US",2
+"718",2021,3,2,"Principal Data Engineer",200000,3,"US",2
+"719",2021,2,2,"Big Data Engineer",60000,2,"RO",2
+"720",2021,2,2,"Data Engineer",200000,3,"US",3
+"721",2021,1,2,"Machine Learning Developer",100000,2,"IQ",1
+"722",2021,2,2,"Data Engineer",100000,3,"US",3
+"723",2021,3,2,"Machine Learning Engineer",82744,2,"BE",2
+"724",2020,2,2,"Data Engineering Manager",59303,3,"DE",1
+"725",2021,2,2,"Research Scientist",62649,2,"FR",2
+"726",2021,2,2,"Data Engineer",82528,3,"GB",3
+"727",2021,2,2,"Data Architect",170000,3,"US",3
+"728",2021,2,2,"Data Architect",150000,3,"US",3
+"729",2021,1,2,"BI Data Analyst",55000,2,"US",1
+"730",2021,4,2,"Director of Data Science",250000,1,"US",3
+"731",2021,1,2,"Data Engineer",80000,3,"US",3
+"732",2020,1,2,"Big Data Engineer",70000,3,"US",3
+"733",2021,4,2,"Director of Data Science",130026,2,"DE",2
+"734",2021,1,2,"Data Science Consultant",63831,2,"DE",3
+"735",2020,3,2,"Data Scientist",68428,3,"US",3
+"736",2021,4,2,"Head of Data Science",85000,1,"RU",2
+"737",2021,4,2,"Head of Data",230000,2,"RU",3
+"738",2021,1,2,"Machine Learning Engineer",125000,3,"US",1
+"739",2021,3,2,"Data Analytics Manager",120000,3,"US",2
+"741",2020,2,2,"Data Analyst",46759,2,"FR",3
+"742",2020,2,2,"Data Engineer",74130,2,"AT",3
+"743",2021,3,2,"Data Science Engineer",127221,2,"CA",3
+"744",2021,3,2,"Data Science Manager",144000,3,"US",3
+"745",2021,1,2,"Data Scientist",13400,3,"UA",3
+"746",2021,2,2,"Data Scientist",75774,3,"CA",3
+"747",2021,2,2,"Data Scientist",150000,3,"US",2
+"748",2020,2,2,"Data Science Consultant",103000,3,"US",3
+"749",2021,3,2,"Data Engineering Manager",153000,3,"US",3
+"750",2021,2,2,"Data Engineer",90000,3,"US",3
+"751",2021,1,2,"Data Analyst",90000,3,"US",1
+"752",2021,1,2,"Data Analyst",60000,3,"US",1
+"753",2021,2,2,"Data Scientist",50000,3,"NG",3
+"757",2021,2,2,"Applied Data Scientist",54238,2,"CA",3
+"758",2021,2,2,"Machine Learning Engineer",47282,3,"ES",1
+"759",2021,4,2,"Director of Data Science",153667,3,"PL",3
+"760",2021,2,2,"Data Engineer",28476,3,"PL",3
+"761",2021,2,2,"Data Analytics Engineer",110000,3,"US",3
+"762",2021,1,2,"Research Scientist",82528,2,"GB",3
+"763",2020,1,2,"Machine Learning Engineer",250000,2,"US",3
+"764",2021,1,2,"Data Analyst",59102,2,"FR",2
+"765",2021,3,2,"Data Analyst",80000,3,"US",1
+"766",2020,1,2,"Data Analyst",10000,3,"NG",1
+"767",2020,1,2,"Machine Learning Engineer",138000,3,"US",1
+"768",2021,2,2,"Data Engineer",140000,3,"US",3
+"769",2021,3,2,"Data Analytics Engineer",79197,3,"DE",3
+"770",2021,3,2,"Lead Data Analyst",170000,3,"US",3
+"771",2021,1,2,"Data Analyst",80000,3,"US",2
+"772",2020,2,2,"Data Scientist",45760,3,"US",1
+"773",2021,2,2,"BI Data Analyst",100000,3,"US",2
+"774",2021,3,2,"Data Scientist",53192,2,"FR",3
+"775",2021,4,2,"Head of Data",235000,3,"US",3
+"776",2021,4,2,"BI Data Analyst",150000,3,"US",3
+"777",2020,4,2,"Data Engineering Manager",79833,2,"ES",3
+"778",2021,1,2,"Machine Learning Scientist",225000,3,"US",3
+"779",2021,1,2,"Data Science Consultant",76833,3,"DE",1
+"780",2020,2,2,"Machine Learning Infrastructure Engineer",50180,1,"PT",2
+"781",2021,3,2,"Marketing Data Analyst",88654,3,"DK",3
+"782",2021,3,2,"Lead Data Engineer",103160,3,"GB",1
+"783",2021,3,2,"Director of Data Engineering",113476,3,"GB",2
+"784",2021,3,2,"Machine Learning Engineer",94564,2,"DE",3
+"785",2021,1,2,"Data Engineer",30428,3,"IN",3
+"786",2021,3,2,"Data Engineer",150000,3,"US",2
+"787",2021,3,2,"Data Engineer",115000,3,"US",1
+"788",2021,2,2,"Research Scientist",187442,3,"CA",3
+"789",2021,2,2,"Data Analyst",51519,2,"GB",3
+"790",2020,2,2,"Data Engineer",106000,3,"US",3
+"791",2020,2,2,"Data Engineer",112872,2,"GB",3
+"792",2021,2,2,"BI Data Analyst",36259,2,"US",3
+"793",2021,3,2,"Data Engineer",150000,3,"US",3
+"795",2021,2,2,"Computer Vision Software Engineer",95746,3,"US",1
+"796",2021,1,2,"Computer Vision Software Engineer",70000,3,"US",2
+"798",2020,2,2,"Data Scientist",76958,3,"GB",1
+"799",2021,2,2,"Cloud Data Engineer",89294,2,"SG",3
+"800",2021,1,2,"Data Scientist",29751,2,"IN",3
+"801",2021,3,2,"Lead Data Engineer",276000,1,"US",3
+"802",2020,3,2,"Data Engineer",188000,3,"US",3
+"803",2021,3,2,"Cloud Data Engineer",160000,3,"US",1
+"804",2020,2,2,"Data Scientist",105000,3,"US",3
+"805",2021,2,2,"Data Engineer",200000,3,"US",3
+"806",2021,3,2,"Data Engineering Manager",174000,3,"US",3
+"807",2021,2,2,"Data Analyst",93000,3,"US",3
+"808",2021,1,2,"Data Scientist",28399,3,"IN",2
+"809",2021,3,2,"Research Scientist",60757,2,"PT",3
+"810",2021,1,2,"Data Scientist",90000,3,"US",1
+"811",2020,2,2,"Data Engineer",70139,2,"FR",3
+"812",2020,1,2,"Data Analyst",6072,1,"IN",1
+"813",2020,3,2,"Data Engineer",33511,1,"MX",1
+"814",2021,3,2,"Principal Data Analyst",170000,3,"US",2
+"815",2021,3,2,"Data Engineer",96282,2,"GB",3
+"816",2021,2,2,"Data Engineer",12103,1,"TR",2
+"817",2021,1,2,"Data Scientist",36643,2,"FR",3
+"818",2021,2,2,"Data Engineer",72212,2,"GB",3
+"819",2020,1,2,"Data Analyst",91000,3,"US",3
+"820",2021,3,2,"Big Data Architect",99703,2,"CA",2
+"821",2021,3,2,"Data Scientist",165000,3,"US",3
+"822",2021,2,2,"Data Analyst",80000,3,"US",3
+"823",2021,3,2,"Data Scientist",103691,3,"CA",3
+"824",2021,1,2,"Data Engineer",21637,2,"IN",2
+"825",2020,1,2,"Research Scientist",42000,2,"NL",3
+"826",2020,2,2,"Lead Data Scientist",115000,1,"AE",3
+"827",2021,2,2,"Research Scientist",63810,3,"CA",2
+"829",2021,2,2,"Head of Data Science",110000,1,"US",1
+"830",2021,2,2,"Data Architect",180000,3,"US",3
+"831",2021,3,2,"Data Analyst",200000,3,"US",3
+"832",2020,3,2,"Big Data Engineer",109024,2,"GB",2
+"833",2021,3,2,"Director of Data Engineering",200000,3,"US",3
+"834",2021,3,2,"ML Engineer",256000,3,"US",1
+"835",2021,2,2,"Data Engineer",110000,3,"US",3
+"836",2020,2,2,"Data Scientist",79833,1,"DE",3
+"837",2021,1,2,"Data Engineer",72500,3,"US",3
+"838",2021,3,2,"Machine Learning Engineer",185000,2,"US",3
+"840",2021,1,2,"Research Scientist",100000,1,"CN",3
+"841",2021,2,2,"Data Engineer",112000,3,"US",3
+"842",2020,3,2,"Machine Learning Engineer",150000,2,"US",3
+"843",2021,3,2,"Data Scientist",20171,2,"TR",3
+"844",2021,3,2,"AI Scientist",55000,3,"ES",3
+"845",2021,1,2,"Data Scientist",58000,2,"US",3
+"846",2021,1,2,"Data Scientist",100000,3,"US",2
+"847",2021,3,2,"Data Scientist",77684,2,"FR",2
+"848",2021,1,2,"Machine Learning Engineer",85000,3,"DE",1
+"849",2021,1,2,"Data Science Consultant",76833,1,"DE",3
+"851",2020,1,2,"Data Analyst",72000,3,"US",3
+"852",2021,1,2,"Data Engineer",65013,2,"DE",2
+"853",2021,2,2,"Data Engineer",28016,3,"TR",2
+"854",2021,2,2,"Data Engineer",111775,1,"US",2
+"855",2021,2,2,"Data Engineer",93150,1,"US",2
+"856",2021,3,2,"Lead Data Engineer",160000,2,"US",1
+"857",2021,2,2,"Data Scientist",25532,3,"DE",1
+"858",2021,3,2,"Machine Learning Engineer",66265,1,"IN",3
+"859",2021,2,2,"Data Scientist",16904,3,"IN",1
+"860",2021,3,2,"Data Analyst",63831,2,"DE",3
+"861",2020,3,2,"Lead Data Scientist",190000,3,"US",1
+"862",2021,4,2,"Director of Data Science",141846,1,"DE",3
+"863",2021,1,2,"Big Data Engineer",16228,3,"IN",3
+"864",2021,3,2,"Data Analyst",71786,3,"CA",2
+"865",2020,2,2,"Data Scientist",35735,2,"HU",3
+"866",2021,3,2,"Data Scientist",135000,1,"US",3
+"867",2021,1,2,"Machine Learning Engineer",24823,2,"DE",2
+"868",2021,3,2,"Data Science Manager",54094,2,"US",3
+"869",2021,3,2,"Machine Learning Engineer",24342,3,"IN",3
+"870",2021,1,2,"BI Data Analyst",9272,3,"KE",1
+"871",2021,2,2,"Data Scientist",147000,2,"US",3
+"872",2021,3,2,"Research Scientist",96113,2,"CA",3
+"873",2021,3,2,"Data Science Manager",174000,3,"US",3
+"874",2020,2,2,"Business Data Analyst",135000,3,"US",3
+"875",2021,1,2,"Machine Learning Engineer",21844,2,"CO",2
+"876",2020,3,2,"Lead Data Engineer",125000,2,"NZ",1
+"877",2020,1,2,"Data Scientist",51321,1,"FR",1
+"878",2020,2,2,"Data Scientist",40481,1,"IN",3
+"879",2021,4,2,"Data Science Consultant",69741,3,"ES",1
+"880",2021,3,2,"Data Analytics Engineer",50000,3,"GB",2
+"881",2021,2,2,"Data Engineer",4000,3,"IR",2
+"882",2020,1,2,"Data Scientist",39916,1,"FR",2
+"883",2020,2,2,"Lead Data Analyst",87000,3,"US",3
+"884",2021,2,2,"Data Engineer",26005,1,"US",3
+"885",2021,2,2,"Data Scientist",90734,2,"DE",3
+"886",2021,2,2,"Big Data Engineer",22611,1,"IN",3
+"887",2021,2,2,"Data Scientist",5679,3,"US",1
+"888",2021,1,2,"Machine Learning Engineer",81000,2,"US",1
+"889",2021,2,2,"Data Scientist",40038,3,"CL",3
+"890",2021,2,2,"Data Scientist",2859,1,"MX",1
+"891",2021,1,2,"Data Science Consultant",90000,3,"US",1
+"892",2021,2,2,"Data Scientist",61467,2,"AT",2
+"893",2021,3,2,"Machine Learning Infrastructure Engineer",195000,3,"US",2
+"894",2021,2,2,"Data Scientist",37825,3,"ES",3
+"895",2020,2,2,"Data Analyst",85000,3,"US",3
+"897",2021,3,2,"Machine Learning Scientist",225000,3,"CA",3
+"898",2021,2,2,"Data Scientist",56256,2,"GB",3
+"899",2021,2,2,"Data Scientist",33808,1,"IN",2
+"900",2021,2,2,"Data Scientist",116914,2,"GB",3
+"901",2021,2,2,"Machine Learning Engineer",46597,3,"PL",3
+"902",2020,2,2,"Data Analyst",8000,2,"PK",3
+"903",2020,1,2,"Data Engineer",41689,3,"JP",1
+"904",2020,3,2,"Big Data Engineer",114047,3,"GB",1
+"905",2021,2,2,"Machine Learning Engineer",88654,3,"BE",2
+"906",2020,1,2,"Data Science Consultant",5707,2,"IN",2
+"907",2020,2,2,"Lead Data Engineer",56000,3,"US",2
+"909",2021,2,2,"Data Scientist",88654,2,"DE",3
+"910",2020,2,2,"Machine Learning Engineer",43331,1,"CN",2
+"911",2020,2,2,"Product Data Analyst",6072,3,"IN",3
+"912",2020,3,2,"Data Engineer",47899,2,"GR",3
+"913",2020,2,2,"BI Data Analyst",98000,1,"US",2
+"914",2021,2,2,"Data Engineer",66022,2,"GB",1
+"915",2021,2,2,"Research Scientist",56738,2,"FR",1
+"916",2021,2,2,"Machine Learning Engineer",24823,2,"SI",3
+"917",2021,3,2,"Data Analytics Manager",120000,1,"US",3
+"920",2021,3,2,"Machine Learning Engineer",200000,3,"US",3
+"921",2020,1,2,"AI Scientist",45896,2,"DK",1
+"922",2021,2,2,"Data Scientist",160000,3,"US",3
+"923",2021,3,2,"Research Scientist",50000,3,"US",1
+"924",2021,2,2,"Data Science Engineer",40189,3,"GR",2
+"926",2021,2,2,"Data Scientist",12901,1,"BR",1
+"927",2021,3,2,"Data Engineer",165000,1,"US",2
+"928",2021,1,2,"Big Data Engineer",5882,1,"CH",3
+"929",2020,2,2,"Data Scientist",42197,2,"FR",1
+"930",2021,3,2,"Principal Data Engineer",185000,3,"US",3
+"931",2020,1,2,"Data Scientist",62726,2,"DE",1
+"932",2021,2,2,"Data Scientist",90734,2,"DE",3
+"934",2020,2,2,"Data Engineer",110000,3,"US",3
+"935",2021,3,2,"Data Analytics Manager",140000,3,"US",3
+"936",2020,3,2,"Data Scientist",120000,2,"US",3
+"937",2021,3,2,"Data Scientist",87738,3,"CA",1
+"938",2021,3,2,"Finance Data Analyst",61896,2,"GB",3
+"940",2021,3,2,"Data Engineer",76833,2,"GB",1
+"941",2021,2,2,"Machine Learning Engineer",74000,2,"JP",1
+"942",2021,3,2,"Data Science Manager",152000,3,"FR",3
+"943",2021,2,2,"Big Data Engineer",18000,1,"MD",1
+"945",2021,2,2,"Data Scientist",130000,2,"US",3
+"946",2021,3,2,"Computer Vision Engineer",18907,1,"BR",2
+"947",2021,1,2,"Business Data Analyst",59102,3,"LU",3
+"948",2021,3,2,"Principal Data Scientist",173762,3,"DE",2
+"949",2020,3,2,"Principal Data Scientist",148261,3,"DE",2
+"950",2020,2,2,"Data Scientist",38776,3,"ES",2
+"951",2021,2,2,"Data Scientist",46809,3,"ES",2
+"952",2021,1,2,"Data Scientist",4000,1,"VN",2
+"953",2021,1,2,"AI Scientist",18053,3,"AS",1
+"954",2020,3,2,"Data Scientist",91237,1,"AT",1
+"955",2020,2,2,"Data Scientist",62726,2,"LU",1
+"956",2021,2,2,"Data Scientist",115000,2,"US",3
+"957",2021,3,2,"Principal Data Scientist",235000,3,"US",3
+"958",2021,2,2,"Lead Data Analyst",19609,3,"IN",3
+"960",2021,2,2,"Data Analyst",75000,1,"US",3
+"961",2021,2,2,"Data Analyst",62000,1,"US",3
+"962",2021,2,2,"Data Scientist",73000,1,"US",3
+"963",2021,2,2,"Data Engineer",45391,3,"NL",3
+"964",2020,3,2,"Data Science Manager",190200,3,"US",2
+"965",2020,2,2,"Data Scientist",118000,3,"US",2
+"966",2020,2,2,"Data Scientist",138350,3,"US",2
+"967",2020,2,2,"Data Engineer",130800,3,"US",2
+"968",2020,3,2,"Machine Learning Engineer",45618,3,"HR",1
+"969",2021,3,2,"Director of Data Science",168000,1,"JP",1
+"970",2021,2,2,"Data Scientist",119059,3,"IL",2
+"972",2021,2,2,"Data Engineer",28369,2,"MT",3
+"973",2021,3,2,"Data Specialist",165000,3,"US",3
+"975",2021,2,2,"Principal Data Scientist",151000,3,"US",3
+"976",2020,1,2,"Data Scientist",105000,3,"US",1
+"978",2021,3,2,"Data Science Manager",94665,2,"IN",3
