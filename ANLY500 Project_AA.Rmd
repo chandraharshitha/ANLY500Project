@@ -16,6 +16,7 @@ setwd("C:/Users/aanan/Documents/GitHub/ANLY500Project/") # Team, please change t
 
 # add packages
 library("dplyr")
+library("ggplot2")
 ```
 
 ```{r read data, echo=FALSE, results='hide'}
@@ -148,6 +149,13 @@ Salaries_clean <- read.csv("salaries_clean.csv")
 
 ```{r}
 ## AA note, please use "Salaries" rather than "Salaries_clean" for summary of data
+cleanup <- theme(panel.grid.major = element_blank(), #no grid lines
+                panel.grid.minor = element_blank(), #no grid lines
+                panel.background = element_blank(), #no background
+                axis.line.x = element_line(color = 'black'), #black x axis line
+                axis.line.y = element_line(color = 'black'), #black y axis line
+                legend.key = element_rect(fill = 'white'), #no legend background
+                text = element_text(size = 12)) #bigger text size
 ```
 
 [[Add language describing data.]]
@@ -173,8 +181,15 @@ Salaries_clean <- read.csv("salaries_clean.csv")
 ##### Barplots / Histograms (> Abhishek)
 
 ```{r}
+hist(Salaries$salary_in_usd, breaks = 40, main = paste("Salaries of Data Roles in Tech"),xlab = "Salaries", ylab = "No. of Employees", xlim = c(0,600000), ylim = c(0,150))
+```
+
+[[Text describing the histogram/distribution of salaries]].
+
+```{r}
 
 ```
+
 
 [[Add language summarizing the relationships shown in descriptive plots.]]
 
