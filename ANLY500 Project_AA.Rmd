@@ -70,10 +70,10 @@ head(Salaries)
 #### Recode
 
 ```{r recode categorical variables, echo=FALSE,results='hide'}
-Salaries$experience_level <- recode(Salaries$experience_level, EN = 1, MI = 2, SE = 3, EX = 4)
-Salaries$employment_type <- recode(Salaries$employment_type, PT=1, FT=2, CT=3, FL=4)
-Salaries$company_size <- recode(Salaries$company_size, S = 1, M = 2, L = 3)
-Salaries$remote_ratio <- recode(Salaries$remote_ratio, "0" = 1, "50" = 2, "100" = 3)
+#Salaries$experience_level <- recode(Salaries$experience_level, EN = 1, MI = 2, SE = 3, EX = 4)
+#Salaries$employment_type <- recode(Salaries$employment_type, PT=1, FT=2, CT=3, FL=4)
+#Salaries$company_size <- recode(Salaries$company_size, S = 1, M = 2, L = 3)
+#Salaries$remote_ratio <- recode(Salaries$remote_ratio, "0" = 1, "50" = 2, "100" = 3)
 ```
 
 #### Remove Redundant Data
@@ -156,6 +156,11 @@ cleanup <- theme(panel.grid.major = element_blank(), #no grid lines
                 axis.line.y = element_line(color = 'black'), #black y axis line
                 legend.key = element_rect(fill = 'white'), #no legend background
                 text = element_text(size = 12)) #bigger text size
+
+
+summary(Salaries)
+
+## Output below gives us a general representation of how the data looks like.
 ```
 
 [[Add language describing data.]]
@@ -173,7 +178,29 @@ cleanup <- theme(panel.grid.major = element_blank(), #no grid lines
 ##### Scatterplots (> Bolun)
 
 ```{r}
+plot(x=Salaries_clean$experience_level, y=Salaries_clean$salary_in_usd, 
+     xlab = "Experience_Level",
+     ylab = "Salary",
+     main = "Experience vs Salary",
+     col="purple", 
+     pch =19)
 
+plot(x=Salaries_clean$work_year, y=Salaries_clean$salary_in_usd, 
+     xlab = "work_year",
+     ylab = "Salary",
+     main = "work_year vs Salary",
+     col="purple", 
+     pch =19)
+
+plot(x=Salaries_clean$employment_type, y=Salaries_clean$salary_in_usd, 
+     xlab = "employment_type",
+     ylab = "Salary",
+     main = "employment_type vs Salary",
+     col="purple", 
+     pch =19)
+
+# From the descriptive Scatter plot, we can see that generally speaking, the higher the experience level is, the higher the Salary will be.
+# Similarly, the more work year, the higher the Salary. 
 ```
 
 [[Add language summarizing the relationships shown in descriptive plots.]]
@@ -183,6 +210,26 @@ cleanup <- theme(panel.grid.major = element_blank(), #no grid lines
 ```{r}
 hist(Salaries$salary_in_usd, breaks = 40, main = paste("Salaries of Data Roles in Tech"),xlab = "Salaries", ylab = "No. of Employees", xlim = c(0,600000), ylim = c(0,150))
 ```
+
+```{r}
+bar1 <- ggplot(Salaries, aes(experience_level, salary_in_usd, fill = company_size))
+
+bar1 + 
+  stat_summary(fun = mean,
+               geom = "bar",
+               position = "dodge") +
+  stat_summary(fun.data = mean_cl_normal,
+               geom = "errorbar",
+               position = position_dodge(width = 0.90),
+               width = 0.2) +
+  xlab("Experience Level") +
+  ylab("Salary") +
+  cleanup +
+  scale_fill_manual(name = "Company Size",
+                    labels = c("Large", "Medium", "Small"),
+                    values = c("blue", "darkgreen", "maroon"))
+```
+
 
 [[Text describing the histogram/distribution of salaries]].
 
