@@ -158,7 +158,9 @@ summary(Salaries)
 #### Descriptive Statistics (> Bolun)
 
 ```{r}
-
+# Below is the more descriptive statistics
+library(pastecs)
+stat.desc(Salaries,norm = TRUE)
 ```
 
 [[Add language summarizing descriptive statistics.]]
@@ -191,6 +193,9 @@ plot(x=Salaries_clean$employment_type, y=Salaries_clean$salary_in_usd,
 
 # From the descriptive Scatter plot, we can see that generally speaking, the higher the experience level is, the higher the Salary will be.
 # Similarly, the more work year, the higher the Salary. 
+
+pairs(Salaries_clean[, c("experience_level", "work_year", "remote_ratio", "salary_in_usd")])
+# View below will help us visualize the relationship for several pairs of variables
 ```
 
 [[Add language summarizing the relationships shown in descriptive plots.]]
