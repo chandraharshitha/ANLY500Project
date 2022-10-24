@@ -148,6 +148,9 @@ Salaries_clean <- read.csv("salaries_clean.csv")
 
 ```{r}
 ## AA note, please use "Salaries" rather than "Salaries_clean" for summary of data
+summary(Salaries)
+
+## Output below gives us a general representation of how the data looks like.
 ```
 
 [[Add language describing data.]]
@@ -165,7 +168,29 @@ Salaries_clean <- read.csv("salaries_clean.csv")
 ##### Scatterplots (> Bolun)
 
 ```{r}
+plot(x=Salaries_clean$experience_level, y=Salaries_clean$salary_in_usd, 
+     xlab = "Experience_Level",
+     ylab = "Salary",
+     main = "Experience vs Salary",
+     col="purple", 
+     pch =19)
 
+plot(x=Salaries_clean$work_year, y=Salaries_clean$salary_in_usd, 
+     xlab = "work_year",
+     ylab = "Salary",
+     main = "work_year vs Salary",
+     col="purple", 
+     pch =19)
+
+plot(x=Salaries_clean$employment_type, y=Salaries_clean$salary_in_usd, 
+     xlab = "employment_type",
+     ylab = "Salary",
+     main = "employment_type vs Salary",
+     col="purple", 
+     pch =19)
+
+# From the descriptive Scatter plot, we can see that generally speaking, the higher the experience level is, the higher the Salary will be.
+# Similarly, the more work year, the higher the Salary. 
 ```
 
 [[Add language summarizing the relationships shown in descriptive plots.]]
