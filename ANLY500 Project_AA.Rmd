@@ -33,6 +33,7 @@ Salaries <- read.csv("salaries.csv")
 
 AI: Artificial Intelligence
 DS: Data Science
+DA: Data Analytics
 ML: Machine Learning
 USD: United States Dollar
 
@@ -60,9 +61,6 @@ knitr::include_graphics("Variable Descriptions.png")
 
 #### Data Cleaning (> Abhishek)
 
-Follow all cleaning steps outlined in class
-_clean.csv
-
 ```{r data cleaning, echo=FALSE}
 head(Salaries)
 ```
@@ -78,13 +76,13 @@ head(Salaries)
 
 #### Remove Redundant Data
 
-```{r remove redundant data}
+```{r remove redundant data, echo=FALSE, results='hide'}
 Salaries <- Salaries[,c(1:4,7,9:11)]
 ```
 
 #### Convert to Factor (may not be needed, but leaving it here for now)
 
-```{r}
+```{r, echo=FALSE, results='hide'}
 #Salaries$remote_ratio <- as.factor(Salaries$remote_ratio)
 #Salaries$experience_level <- as.factor(Salaries$experience_level)
 #Salaries$employment_type <- as.factor(Salaries$employment_type)
@@ -94,7 +92,7 @@ Salaries <- Salaries[,c(1:4,7,9:11)]
 
 #### Missing Data
 
-```{r}
+```{r, echo=FALSE, results='hide'}
 summary(Salaries[c(1:3,5:6,8)])
 ```
 ```{r}
@@ -105,18 +103,18 @@ There are no missing data in our data set. Also, as we see from the summaries ab
 
 #### Means
 
-```{r}
+```{r, echo=FALSE, results='hide'}
 round(apply(Salaries[,-c(4,7)],2,mean),1)
 ```
 #### Standard Deviations
 
-```{r}
+```{r, echo=FALSE, results='hide'}
 round(apply(Salaries[,-c(4,7)],2,sd),1)
 ```
 
 #### Outliers
 
-```{r}
+```{r, echo=FALSE, results='hide'}
 mahal <- mahalanobis(Salaries[,-c(4,7)],
                      colMeans(Salaries[,-c(4,7)]),
                      cov(Salaries[,-c(4,7)],use = "pairwise.complete.obs"))
@@ -124,17 +122,17 @@ mahal <- mahalanobis(Salaries[,-c(4,7)],
 cutoff <- qchisq(1-0.001,ncol(Salaries[,-c(4,7)]))
 ```
 
-```{r}
+```{r, echo=FALSE, results='hide'}
 ncol(Salaries[,-c(4,7)])
 ```
 
-```{r}
+```{r, echo=FALSE, results='hide'}
 summary(mahal < cutoff)
 ```
 
 From the above summary, we see that of the 978 rows of data, 31 contain outliers. The other 947 do not. We will remove the 31 rows to create a data set without outliers.
 
-```{r}
+```{r, echo=FALSE, results='hide'}
 Salaries_Outliers <- subset(Salaries, mahal >= cutoff)
 Salaries_NoOutliers <- subset(Salaries, mahal < cutoff)
 write.csv(Salaries_NoOutliers, "salaries_clean.csv")
