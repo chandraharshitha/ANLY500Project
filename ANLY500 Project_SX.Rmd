@@ -227,6 +227,23 @@ Salaries_clean <- read.csv("salaries_clean.csv")
 
 ### Technical Approach (> Siming)
 
+1. Data Screening
+First of all, we conducted data screening to clean the data using R. Our work includes checking for data accuracy, checking missing data and outliers, making ssumptions, etc.
+Assumptions include Additivity, Normality, Linearity, and Homogeneity.
+
+2. Data Analysis
+We conducted data analysis using correlation and linear regression.
+a. Correlation 
+Correlation modeling gives us an idea of the direction and strength of the relationship across variables. We created plots to illustrate our points, including (use ggplot in R):
+Scatterplots showing the correlation between experience level and salary;
+Multivariate plots showing the correlation between several variables and salary.
+
+b. Linear Regression
+linear regression can also help us to determine the strength of the association between salary and other independent variables. By observing the p-value, we can tell what factors have an effect on salary.
+
+3. Analysis Evaluation
+In order to evaluate our work, we did an ANOVA test, as well as some market research to see if our analytic values mirror what other researchers may have hypothesized about the topic.
+
 [[Language on our overall approach to the analysis.]]
 
 #### Modeling (All)
