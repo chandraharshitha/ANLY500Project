@@ -55,6 +55,10 @@ knitr::include_graphics("Variable Descriptions.png")
 
 [[Add citations we consulted, and a summary of related work!]]
 
+Data science jobs are required to collect data, process it using machine learning or statistical techniques and most importantly report to the organization’s management comprehensibly. Data science jobs are in serious shortage over the globes (DuBois, 2020). As reported by McKinsey, there was already a shortfall of 250 000 data science-related jobs in the United States alone by 2016 (Jain,2019).
+The average data scientist salary is $100,560, according to the U.S. Bureau of Labor Statistics.
+
+
 ### Data
 
 #### Data Cleaning (> Abhishek)
